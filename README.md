@@ -7,7 +7,7 @@
 This Jupyter Notebook demonstrates a brute-force attack approach to decrypt a password and messages encoded with simple substitution ciphers, such as the Caesar Cipher in the second example.<br>
 The notebook walks through the process of encrypting and decrypting messages using different keys and attempts to crack the encryption without prior knowledge of the encryption key.
 
-### Features:
+## Features:
 - **Brute-Force password attack**: Shows how brute-force can be used for obtain a password.
 - **Caesar Cipher Encryption**: Shows how to encrypt a message using a Caesar cipher.
 - **Brute-Force Caesar Cipher Decryption**: Implements a brute-force approach to find the correct key by trying all possible shifts in the Caesar Cipher (from 1 to 25).
